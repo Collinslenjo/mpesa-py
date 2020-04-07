@@ -5,12 +5,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mpesa-py",
-    version="1.0",
+    version="1.1",
     author="Aurlus Ismael Wedava",
     author_email="arlusishmael@gmail.com",
     description="A Python wrapper for Mpesa Daraja APIs.",
     long_description="This library provides thin wrappers around Mpesa Daraja APIs. The APIs supported are Reversal, Transaction Status, Account Balance, B2B, B2C, C2B and MPESA Express",
-    url="https://github.com/Arlus/mpesa-py",
+    url="https://github.com/Collinslenjo/mpesa-py",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python",
