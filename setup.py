@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="mpesa-py",
+    name="m-pesa-py",
     version="1.1",
     author="Aurlus Ismael Wedava",
     author_email="arlusishmael@gmail.com",
